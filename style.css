@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  direction: rtl;
+  text-align: center;
+  background: #f1f5f9;
+  color: #1e293b;
+  padding: 50px 20px;
+}
+
+h1 {
+  color: #2563eb;
+}
