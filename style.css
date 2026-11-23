@@ -5,8 +5,25 @@ body {
   background: #f1f5f9;
   color: #1e293b;
   padding: 50px 20px;
+  margin: 0;
+}
+
+.card {
+  max-width: 600px;
+  margin: 0 auto;
+  background: #ffffff;
+  padding: 40px 30px;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(15, 23, 42, 0.08);
 }
 
 h1 {
   color: #2563eb;
+  margin-top: 0;
+}
+
+p {
+  line-height: 1.9;
+  max-width: 45ch;
+  margin-inline: auto;
 }
